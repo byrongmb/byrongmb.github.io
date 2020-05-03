@@ -4,13 +4,24 @@ body{
     font-family: 'Open Sans', sans-serif;
     background-color:#D5E9F3;
 }
+/* Header */
 .header{
     background-color: #191F21;
 }
+.header a, li{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+.logo-header img{
+    height: 70px;
+}
+/* Secciones */
 .secciones{
     background-color: white;
     width: 1200px;
 }
+/* Footer */
 .footer{
     background-color: #191F21;
     height: 80px;
