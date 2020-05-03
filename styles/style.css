@@ -25,6 +25,7 @@ body{
 }
 .menu-header ol{
     margin-right: 20px;
+    display: flex;
 }
 .menu-header li{
     margin: 5px;
@@ -33,7 +34,7 @@ body{
 /* Secciones */
 .secciones{
     background-color: white;
-    width: 1200px;
+    width: 85%;
 }
 /* Footer */
 .footer{
