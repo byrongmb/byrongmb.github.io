@@ -7,14 +7,28 @@ body{
 /* Header */
 .header{
     background-color: #191F21;
+    display: flex;
+    height: 60px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
 }
 .header a, li{
     text-decoration: none;
     list-style: none;
     color: white;
+    font-weight: 35px;
 }
 .logo-header img{
     height: 70px;
+    margin-left: -35px;
+}
+.menu-header ol{
+    display: flex;
+    margin: 40px;
+}
+.menu-header li{
+    margin: 5px;
 }
 /* Secciones */
 .secciones{
