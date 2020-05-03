@@ -36,6 +36,36 @@ body{
     background-color: white;
     margin: 0 4%;
 }
+/* Seccion Principal */
+.principal{
+    display: flex;
+    justify-content: space-between;
+    height: 400px;
+}
+.principal-presentacion{
+    width: 50%;
+    background-color: #333F43;
+    color: white;
+    font-size: 35px;
+    padding-top: 90px;
+    padding-left: 35px;
+}
+
+.principal-presentacion p{
+    margin: 0px;
+}
+
+.presentacion-nombre{
+    color: #388B7A;
+}
+.presentacion-info{
+    color: #9F3B3B;
+}
+.imagen{
+    background-color: #C2A9A9;
+    width: 50%;
+}
+
 /* Footer */
 .footer{
     background-color: #191F21;
