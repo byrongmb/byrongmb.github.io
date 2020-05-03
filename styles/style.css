@@ -47,8 +47,7 @@ body{
     background-color: #333F43;
     color: white;
     font-size: 35px;
-    padding-top: 90px;
-    padding-left: 35px;
+    padding: 90px 30px 0px;
 }
 
 .principal-presentacion p{
