@@ -34,7 +34,7 @@ body{
 /* Secciones */
 .secciones{
     background-color: white;
-    width: 85%;
+    margin: 0 4%;
 }
 /* Footer */
 .footer{
