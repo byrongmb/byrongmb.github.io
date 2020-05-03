@@ -17,18 +17,18 @@ body{
     text-decoration: none;
     list-style: none;
     color: white;
-    font-weight: 35px;
+    font-weight: 500;
 }
 .logo-header img{
     height: 70px;
     margin-left: -35px;
 }
 .menu-header ol{
-    display: flex;
-    margin: 40px;
+    margin-right: 20px;
 }
 .menu-header li{
     margin: 5px;
+    display: inline;
 }
 /* Secciones */
 .secciones{
