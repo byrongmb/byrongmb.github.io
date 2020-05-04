@@ -41,6 +41,7 @@ body{
     display: flex;
     justify-content: space-between;
     height: 400px;
+    margin-bottom: 50px;
 }
 .principal-presentacion{
     width: 50%;
@@ -64,7 +65,33 @@ body{
     background-color: #C2A9A9;
     width: 50%;
 }
-
+/* Seccion Extracto */
+.extracto{
+    margin-bottom: 50px;
+    padding: 0 40px;
+}
+.extracto-titulo{
+    border: 1px solid;
+    background-color: #333F43;
+    margin-bottom: 20px;
+    color: white;
+    text-align: center;
+    width: 200px;
+    border-radius: 50px;
+    font-size: 12px;
+    margin: 0px 500px;
+}
+.extracto-info{
+    margin-top: 20px;
+    background-color: #D5E9F3;
+    height: 100px;
+    color: #333F43;
+    font-weight: 900;
+    font-size: 16px;
+    padding: 40px 40px;
+    display: flex;
+    border-radius: 20px;
+}
 /* Footer */
 .footer{
     background-color: #191F21;
