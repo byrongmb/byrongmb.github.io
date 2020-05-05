@@ -79,7 +79,8 @@ body{
     width: 200px;
     border-radius: 50px;
     font-size: 12px;
-    margin: 0px 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .extracto-info{
     margin-top: 20px;
