@@ -34,7 +34,7 @@ body{
 /* Secciones */
 .secciones{
     background-color: white;
-    margin: 0 4%;
+    margin: 0 8%;
 }
 /* Seccion Principal */
 .principal{
@@ -47,7 +47,7 @@ body{
     width: 50%;
     background-color: #333F43;
     color: white;
-    font-size: 35px;
+    font-size: 32px;
     padding: 90px 30px 0px;
 }
 
@@ -89,7 +89,7 @@ body{
     color: white;
     text-align: center;
     border-radius: 50px;
-    font-size: 12px;
+    font-size: 14px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -111,7 +111,7 @@ body{
     text-align: center;
     border-radius: 50px;
     width: 100%;
-    font-size: 12px;
+    font-size: 14px;
 }
 .experiencia-labores{
     display: contents;
@@ -177,7 +177,7 @@ body{
     height: 20px;
     text-align: center;
     border-radius: 50px;
-    margin: 2px;
+    margin: 20px;
     padding: 6px;
     background-color: #388B7A;
 }
