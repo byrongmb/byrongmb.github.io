@@ -118,7 +118,7 @@ body{
     flex-wrap: wrap;
 }
 .experiencia-labor{
-    margin: 0 30px;
+    margin: 10px 30px;
     flex-shrink: 0;
     background-color: #D5E9F3;
     width: 350px;
