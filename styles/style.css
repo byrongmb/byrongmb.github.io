@@ -70,18 +70,6 @@ body{
     margin-bottom: 50px;
     padding: 0 40px;
 }
-.extracto-titulo{
-    border: 1px solid;
-    background-color: #333F43;
-    margin-bottom: 20px;
-    color: white;
-    text-align: center;
-    width: 200px;
-    border-radius: 50px;
-    font-size: 12px;
-    margin-left: auto;
-    margin-right: auto;
-}
 .extracto-info{
     margin-top: 20px;
     background-color: #D5E9F3;
@@ -92,6 +80,109 @@ body{
     padding: 40px 40px;
     display: flex;
     border-radius: 20px;
+}
+/*Titulos h1*/
+.extracto-titulo{
+    border: 1px solid;
+    background-color: #333F43;
+    margin-bottom: 20px;
+    color: white;
+    text-align: center;
+    border-radius: 50px;
+    font-size: 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.extracto-titulo{
+    width: 200px;
+}
+/* Seccion Experiencia */
+.experiencia{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+.experiencia-titulo{
+    border: 1px solid;
+    background-color: #333F43;
+    margin-bottom: 20px;
+    color: white;
+    text-align: center;
+    border-radius: 50px;
+    width: 100%;
+    font-size: 12px;
+}
+.experiencia-labores{
+    display: contents;
+    flex-wrap: wrap;
+}
+.experiencia-labor{
+    flex-shrink: 0;
+    margin: 20px;
+    background-color: #D5E9F3;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.experiencia-labor p{
+    color: #9F3B3B;
+    font-weight: 900;
+}
+.detalles-labor{
+    text-align: center;
+    height: 90%;
+    width: 90%;
+    flex-shrink: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.empresa-nombre{
+    background-color: #333F43;
+    color: white;
+    height: 15%;
+    width: 100%;
+    flex-shrink: 0;
+}
+.empresa-descripcion{
+    height: 85%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    flex-wrap: wrap;
+    flex-shrink: 0;
+}
+.empresa-descripcion p{
+    font-size: 16px;
+    font-weight: 900;
+    color: #333F43;
+}
+.botones{
+    display: flex;
+    width: 300px;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+}
+.botton{
+    width: 70px;
+    height: 20px;
+    text-align: center;
+    border-radius: 50px;
+    margin: 2px;
+    padding: 6px;
+    background-color: #388B7A;
+}
+.botton a{
+    color: white;
+    text-decoration: none;
+    font-weight: 900;
 }
 /* Footer */
 .footer{
