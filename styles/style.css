@@ -1,27 +1,2 @@
-html {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.15;
-    -webkit-text-size-adjust: 100%;
-  }
-body{
-    
-    margin: 0;
-    background-color: #171717;
-    color: #E6E6E6;
-}
-.title h1{
-    font-size: xx-large;
-}
-.description p{
-    font-size: x-large;
-}
-.link{
-    color: #E6E6E6;
-}
-.hero{
-    
-    background-color: #0078D4;
-}
-.sections{
-    background-color: #1E2227;
-}
+
+
